@@ -1,0 +1,4 @@
+1. go to pizza place
+2. order pizza
+3. pay for pizza 
+4. recieve pizza
